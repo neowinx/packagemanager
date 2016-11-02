@@ -2,3 +2,6 @@
 *#
 doc/
 */nimcache/*
+**/**/nimsuggest.log
+src/packagemanager.cfg
+bin/*
